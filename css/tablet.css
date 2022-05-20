@@ -1,0 +1,19 @@
+.planes-cont-cards{
+    justify-content: center;
+    overflow-x: auto;
+}
+
+.beneficios-cont-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.intercambio-cont-tables{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 700px;
+    margin: 0 auto;
+    
+}
